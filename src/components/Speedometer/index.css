@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.speedometer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.speedometer-image {
+  width: 200px;
+  height: auto;
+}
+
+.speed {
+  font-size: 24px;
+  color: #0b69ff;
+  margin-top: 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.accelerate-button,
+.brake-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-right: 10px;
+}
+
+.brake-button {
+  background-color: #94a3b8;
+}
